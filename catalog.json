@@ -1,0 +1,15 @@
+[
+  {
+    "channel": "LIVE",
+    "build": "12913470",
+    "mode": "classic",
+    "author": "Traduction communautaire Circuspes",
+    "version": "4.10.2-1.16-20261016",
+    "license": "Téléchargement d’origine pour usage local",
+    "source": "https://traduction.circuspes.fr/download/",
+    "download": "https://traduction.circuspes.fr/download/global.ini",
+    "sha256": "334107FD9BFF04D0C1DBB8AC68D08BFB2E529BB7E712EA208A54916B6BB06950",
+    "experimental": false,
+    "english_slot": true
+  }
+]
