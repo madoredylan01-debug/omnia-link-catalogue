@@ -14,13 +14,13 @@
     "draft": 0,
     "supplements": 2846
   },
-  "englishSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+  "englishSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
   "frenchSha256": "60205e545d2c3883c30ccbc5a2182ca00272a5df91c1f0c67bb5fa8b2555a40f",
   "priorEnglishSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
   "sha256": "e1f498600bf15f6023d24fce462d929ec6b88bc8586eadf692673f124d081484",
   "status": "partial",
   "testedInGame": false,
-  "generatedAt": "2026-11-21T17:54:08.956Z",
+  "generatedAt": "2026-11-21T18:05:14.259Z",
   "applied": [
     {
       "key": "Item_DescRADR_IASI_S01",
@@ -17047,7 +17047,7 @@
     {
       "key": "SB_Refuel_Answer_Mission_Desc",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~mission(PaymentAmount)"
       ]
@@ -17055,7 +17055,7 @@
     {
       "key": "ServiceBeacon_CombatAssist_Mission_Desc",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~mission(PaymentAmount)"
       ]
@@ -17063,7 +17063,7 @@
     {
       "key": "ServiceBeacon_CombatAssist_Mission_Spoofed_Desc",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~mission(PaymentAmount)"
       ]
@@ -17071,7 +17071,7 @@
     {
       "key": "ServiceBeacon_CombatAssist_Mission_Spoofed_Difficulty_Easy_Desc",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~serviceBeacon(PaymentAmount)"
       ]
@@ -17079,7 +17079,7 @@
     {
       "key": "ServiceBeacon_CombatAssist_Mission_Spoofed_Difficulty_Hard_Desc",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~serviceBeacon(PaymentAmount)"
       ]
@@ -17087,7 +17087,7 @@
     {
       "key": "ServiceBeacon_CombatAssist_Mission_Spoofed_Difficulty_Medium_Desc",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~serviceBeacon(PaymentAmount)"
       ]
@@ -17095,7 +17095,7 @@
     {
       "key": "ServiceBeacon_CombatAssist_Mission_Spoofed_Difficulty_VeryHard_Desc",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~serviceBeacon(PaymentAmount)"
       ]
@@ -17103,7 +17103,7 @@
     {
       "key": "ServiceBeacon_Escort_Mission_Desc",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~mission(PaymentAmount)"
       ]
@@ -17111,7 +17111,7 @@
     {
       "key": "ServiceBeacon_Heal_Mission_Desc",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~mission(PaymentAmount)"
       ]
@@ -17119,7 +17119,7 @@
     {
       "key": "ServiceBeacon_PersonalTransport_Mission_Desc",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~mission(PaymentAmount)"
       ]
@@ -17127,7 +17127,7 @@
     {
       "key": "ServiceBeacon_Revive_Mission_Desc",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~mission(PaymentAmount)"
       ]
@@ -17135,7 +17135,7 @@
     {
       "key": "kareahsweep_desc_0001",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~mission(CombatPay)"
       ]
@@ -17143,7 +17143,7 @@
     {
       "key": "kareahsweep_desc_0002",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~mission(CombatPay)"
       ]
@@ -17151,7 +17151,7 @@
     {
       "key": "kareahsweep_desc_0003",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~mission(CombatPay)"
       ]
@@ -17159,7 +17159,7 @@
     {
       "key": "kareahsweep_desc_0004",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~mission(CombatPay)"
       ]
@@ -17167,7 +17167,7 @@
     {
       "key": "outlawsweep_desc_0001",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~mission(CombatPay)"
       ]
@@ -17175,7 +17175,7 @@
     {
       "key": "outlawsweep_desc_0002",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~mission(CombatPay)"
       ]
@@ -17183,7 +17183,7 @@
     {
       "key": "outlawsweep_desc_0003",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~mission(CombatPay)"
       ]
@@ -17191,7 +17191,7 @@
     {
       "key": "outlawsweep_desc_0004",
       "source": "native-runtime-variables",
-      "referenceSha256": "15a4f8c88ce2e7a6bc9d75b71bd949028181dc698e6a1f66c4c167281d0bac6e",
+      "referenceSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
       "variables": [
         "~mission(CombatPay)"
       ]
