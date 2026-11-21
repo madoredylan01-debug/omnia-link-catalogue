@@ -35,5 +35,49 @@
         "reviewedBy": "Contrôles automatiques OMNIA — structure, build et provenance. Couverture partielle, essai en jeu à confirmer."
       }
     ]
+  },
+  {
+    "publishedAt": "2026-11-21T19:05:47.364Z",
+    "previousCommit": "c1996d8bd0a3295264f15d161d8076599ecdd299",
+    "decisions": [
+      {
+        "channel": "LIVE",
+        "build": "13165946",
+        "mode": "enriched",
+        "sha256": "e1f498600bf15f6023d24fce462d929ec6b88bc8586eadf692673f124d081484",
+        "detectedAt": "2026-11-21T19:05:29.226Z",
+        "status": "validated",
+        "validatedAt": "2026-11-21T19:05:31.356Z",
+        "reviewedBy": "Contrôles automatiques OMNIA — structure, build et provenance. Couverture partielle, essai en jeu à confirmer."
+      },
+      {
+        "channel": "LIVE",
+        "build": "13220821",
+        "mode": "enriched",
+        "sha256": "2e0b8223a25f73edfe684f814120c03e34141dbc2b47553f1f70ff5a60206b33",
+        "detectedAt": "2026-11-21T19:05:29.437Z",
+        "status": "validated",
+        "validatedAt": "2026-11-21T19:05:32.865Z",
+        "reviewedBy": "Contrôles automatiques OMNIA — structure, build et provenance. Couverture partielle, essai en jeu à confirmer."
+      },
+      {
+        "channel": "PTU",
+        "build": "13215521",
+        "mode": "enriched",
+        "sha256": "8f7ba5ec155a27e77f705e3ce60d957587ff39f90d230675ee1d50dc191c6045",
+        "detectedAt": "2026-11-21T19:05:29.664Z",
+        "status": "validated",
+        "validatedAt": "2026-11-21T19:05:34.324Z",
+        "reviewedBy": "Contrôles automatiques OMNIA — structure, build et provenance. Couverture partielle, essai en jeu à confirmer."
+      },
+      {
+        "channel": "PTU",
+        "build": null,
+        "version": "4.10.3-1.17-20261104",
+        "detectedAt": "2026-11-21T19:05:25.505Z",
+        "status": "admin-review",
+        "reason": "Aucune approbation du fichier exact"
+      }
+    ]
   }
 ]
