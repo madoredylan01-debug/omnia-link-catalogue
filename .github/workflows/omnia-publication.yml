@@ -1,0 +1,23 @@
+name: Publication automatique OMNIA
+on:
+  workflow_dispatch:
+    inputs:
+      revalidate:
+        type: boolean
+        default: false
+        description: Vérifier et republier les packs déjà présents
+  schedule:
+    - cron: '10,25,40,55 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: omnia-catalogue-publication
+  cancel-in-progress: false
+jobs:
+  publish:
+    uses: madoredylan01-debug/omnia-link/.github/workflows/translation-release.yml@main
+    with:
+      existing_observations: false
+      revalidate: ${{ inputs.revalidate || false }}
+    secrets:
+      OMNIA_CATALOG_TOKEN: ${{ secrets.GITHUB_TOKEN }}
