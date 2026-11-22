@@ -221,5 +221,43 @@
       }
     ],
     "scope": "Only LIVE 13220821 advanced descriptions; in-game visual validation pending"
+  },
+  {
+    "publishedAt": "2026-11-22T15:57:01.928Z",
+    "previousCommit": "8055ffacd08d3448188a09fa1bc5b5782cbcf8e8",
+    "decisions": [
+      {
+        "channel": "LIVE",
+        "build": "13220821",
+        "mode": "enriched",
+        "sha256": "71f3a1a1c6a59f27825e4181779a69bb4bda9aa7961ee02ec3c2f113858cded5",
+        "detectedAt": "2026-11-22T15:46:25.935Z",
+        "status": "validated",
+        "validatedAt": "2026-11-22T15:46:28.287Z",
+        "reviewedBy": "Validation du build exact, inventaire complet des définitions, variables, BOM, variantes, blueprints et objets. Rendu en jeu restant à observer."
+      }
+    ],
+    "validationRun": "https://github.com/madoredylan01-debug/omnia-link/actions/runs/45039508390",
+    "rollbackPack": {
+      "channel": "LIVE",
+      "build": "13220821",
+      "mode": "enriched",
+      "author": "OMNIA · base française Dymerz · faits du build LIVE exact",
+      "license": "Base MIT · compléments Apache-2.0 · textes CIG · couverture partielle déclarée",
+      "source": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/a49bf24f51d0cec9e34205d232f7c7d8adf1a66b/packs/LIVE/13220821/r3/coverage.json",
+      "version": "OMNIA-LIVE-13220821-r3-missions-partiel",
+      "download": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/a49bf24f51d0cec9e34205d232f7c7d8adf1a66b/packs/LIVE/13220821/r3/global.ini",
+      "sha256": "04da731b9f40faa62f79297164bb201d6d8e848c11411b25c7975e5563a098aa",
+      "english_slot": false,
+      "experimental": false,
+      "coverage": {
+        "total": 91358,
+        "translated": 65642,
+        "official": 10616,
+        "english": 15100,
+        "draft": 0,
+        "supplements": 462
+      }
+    }
   }
 ]

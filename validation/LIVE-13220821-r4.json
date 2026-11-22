@@ -1,0 +1,17 @@
+{
+  "channel": "LIVE",
+  "build": "13220821",
+  "revision": "r4",
+  "sha256": "71f3a1a1c6a59f27825e4181779a69bb4bda9aa7961ee02ec3c2f113858cded5",
+  "publishedAt": "2026-11-22T15:57:01.928Z",
+  "candidateValidation": {
+    "run": "https://github.com/madoredylan01-debug/omnia-link/actions/runs/45039508390",
+    "javascriptPassed": 40,
+    "nativePassed": 1,
+    "nativeDurationSeconds": 6.15,
+    "scope": "Actual existing Rust application commands, HTTPS candidate download, temporary Windows installation, file checks, restore and reinstall"
+  },
+  "productionCatalogueValidation": "To be run after this atomic activation",
+  "testedInGame": false,
+  "otherCatalogueEntriesUnchanged": true
+}
