@@ -1,0 +1,19 @@
+{
+  "channel": "LIVE",
+  "build": "13220821",
+  "version": "4.10.201.48085",
+  "branch": "sc-alpha-4.10.0",
+  "manifestSha256": "8892a1fdce254ca29c5127c90e071f3a4193dd0e4ad5ba8f63bdaacab5e69846",
+  "englishSha256": "99113d762aaabeb1519458e6fdca7b45610bcce3c5e3adfb795c79a96fcb7cea",
+  "member": "Data/Localization/english/global.ini",
+  "integrity": {
+    "archiveCrc": 1739934284,
+    "decodedCrc": 1756202668,
+    "standardCrcVerified": false,
+    "packedSha256": "5576c61243fdbbbad5d138ddf77c314e0f4052b4a4c412df062fd5eef81c66be",
+    "packedSha256Verified": true,
+    "integrityNote": "SHA-256 des données compressées vérifié contre le champ P4K 0x5003. CRC ZIP non standard.",
+    "formatReference": "https://github.com/ExterraGroup/scdatatools/blob/master/scdatatools/p4k.py"
+  },
+  "extractedAt": "2026-11-21T02:57:59.568Z"
+}
