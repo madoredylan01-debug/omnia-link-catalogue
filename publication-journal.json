@@ -204,5 +204,22 @@
         "reason": "Aucune approbation du fichier exact"
       }
     ]
+  },
+  {
+    "publishedAt": "2026-11-22T12:45:25.324Z",
+    "previousCommit": "a49bf24f51d0cec9e34205d232f7c7d8adf1a66b",
+    "decisions": [
+      {
+        "channel": "LIVE",
+        "build": "13220821",
+        "mode": "enriched",
+        "sha256": "04da731b9f40faa62f79297164bb201d6d8e848c11411b25c7975e5563a098aa",
+        "detectedAt": "2026-11-22T12:44:49.291Z",
+        "status": "validated",
+        "validatedAt": "2026-11-22T12:44:51.418Z",
+        "reviewedBy": "Contrôles build, BOM UTF-8, 91358 clés, variables, cohérence des variantes et valeurs de réputation. Validation visuelle en jeu encore requise."
+      }
+    ],
+    "scope": "Only LIVE 13220821 advanced descriptions; in-game visual validation pending"
   }
 ]
