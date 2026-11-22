@@ -259,5 +259,37 @@
         "supplements": 462
       }
     }
+  },
+  {
+    "publishedAt": "2026-11-22T18:01:39.477Z",
+    "previousCommit": "d1ff70e5960de99479d2a26bce5e79a8291b36ac",
+    "decisions": [
+      {
+        "channel": "LIVE",
+        "build": "13220821",
+        "mode": "enriched",
+        "sha256": "ba028604f7d2e89963658873eb0cead73be08a39934ad5b434c7e22a50405899",
+        "detectedAt": "2026-11-22T18:01:25.256Z",
+        "status": "validated",
+        "validatedAt": "2026-11-22T18:01:27.395Z",
+        "reviewedBy": "Contrôles automatiques OMNIA — source autorisée, build, variables et couverture partielle. Essai en jeu non réalisé."
+      },
+      {
+        "channel": "PTU",
+        "build": null,
+        "version": "4.10.3-1.17-20261104",
+        "detectedAt": "2026-11-09T20:43:25.402Z",
+        "status": "admin-review",
+        "reason": "Aucune approbation du fichier exact"
+      },
+      {
+        "channel": "LIVE",
+        "build": null,
+        "version": "4.10.3-1.17-20261115",
+        "detectedAt": "2026-11-15T15:37:11.124Z",
+        "status": "admin-review",
+        "reason": "Aucune approbation du fichier exact"
+      }
+    ]
   }
 ]
