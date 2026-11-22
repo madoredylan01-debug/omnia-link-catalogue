@@ -1,0 +1,19 @@
+{
+  "channel": "PTU",
+  "build": "13215521",
+  "version": "5.0.201.42785",
+  "branch": "sc-alpha-5.0.0",
+  "manifestSha256": "512f46669a2cfc082d5ea09453314189310dc827da966e5191f03d5f79551567",
+  "englishSha256": "d68d01320d8c16101b599cfc2e07484db62705f9382096584a904f71eaa04f16",
+  "member": "Data/Localization/english/global.ini",
+  "integrity": {
+    "archiveCrc": 2484640894,
+    "decodedCrc": 1426395120,
+    "standardCrcVerified": false,
+    "packedSha256": "c9d4847a1957e89877c389421a8242f1adcb2affecdaeae99ef04cdee3b1e1e6",
+    "packedSha256Verified": true,
+    "integrityNote": "SHA-256 des données compressées vérifié contre le champ P4K 0x5003. CRC ZIP non standard.",
+    "formatReference": "https://github.com/ExterraGroup/scdatatools/blob/master/scdatatools/p4k.py"
+  },
+  "extractedAt": "2026-11-21T02:58:00.723Z"
+}
