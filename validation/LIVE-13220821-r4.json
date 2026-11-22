@@ -11,7 +11,55 @@
     "nativeDurationSeconds": 6.15,
     "scope": "Actual existing Rust application commands, HTTPS candidate download, temporary Windows installation, file checks, restore and reinstall"
   },
-  "productionCatalogueValidation": "To be run after this atomic activation",
+  "productionCatalogueValidation": {
+    "run": "https://github.com/madoredylan01-debug/omnia-link/actions/runs/45041091242",
+    "commit": "aa130e2ea549a158587c97662fde28e1d7b7d96b",
+    "javascriptPassed": 40,
+    "nativePassed": 1,
+    "nativeDurationSeconds": 6.3,
+    "jobs": [
+      {
+        "name": "native-client",
+        "conclusion": "success",
+        "completedAt": "2026-11-22T16:02:08Z"
+      },
+      {
+        "name": "pack",
+        "conclusion": "success",
+        "completedAt": "2026-11-22T15:57:38Z"
+      }
+    ],
+    "scope": "Actual public catalogue, existing native application commands, isolated Windows temporary installation, file checks, restore and reinstall"
+  },
   "testedInGame": false,
-  "otherCatalogueEntriesUnchanged": true
+  "otherCatalogueEntriesUnchanged": true,
+  "missionCounts": {
+    "definitions": 5167,
+    "releaseCandidates": 3834,
+    "notForRelease": 1333,
+    "legacyAliases": 419,
+    "unresolvedLegacyAliases": 0,
+    "templates": 490,
+    "descriptionKeys": 2121,
+    "existingDescriptionKeys": 2047,
+    "missingDescriptionKeys": 74,
+    "associatedLocalizationKeys": 8421,
+    "unboundCandidates": 0,
+    "enrichedDescriptions": 2039,
+    "enrichedDefinitions": 4880,
+    "activeEnrichedDefinitions": 3721,
+    "definitionsWithoutDescription": 112,
+    "activeDefinitionsWithoutDescription": 61,
+    "definitionsWithVerifiedRewards": 3457,
+    "definitionsWithBlueprintInformation": 697,
+    "activeDefinitionsWithUnknownRewardData": 377,
+    "definitionsWithUnknownRewardData": 1710,
+    "descriptionsWithExactReputation": 780,
+    "descriptionsWithBlueprintInformation": 324,
+    "catalogueOnlyDescriptions": 626,
+    "unboundReviewCandidates": 0,
+    "excludedDescriptions": 82
+  },
+  "visualValidation": "Deferred at the player’s request; no game launch or personal screen capture performed",
+  "immutablePackUrl": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/351b954f13e3472a4faf9cb982abf004e715a596/packs/LIVE/13220821/r4/global.ini"
 }
