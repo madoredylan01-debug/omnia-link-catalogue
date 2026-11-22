@@ -11,7 +11,26 @@
     "nativePassed": 1,
     "nativeDurationSeconds": 5.95
   },
-  "productionValidation": "Pending actual production-catalogue test",
+  "productionValidation": {
+    "run": "https://github.com/madoredylan01-debug/omnia-link/actions/runs/45063420580",
+    "commit": "8bb24659c82630932a4e4c6e68fdb70b3e5835ab",
+    "javascriptPassed": 63,
+    "nativePassed": 1,
+    "nativeDurationSeconds": 6.75,
+    "jobs": [
+      {
+        "name": "native-client",
+        "conclusion": "success",
+        "completedAt": "2026-11-22T19:56:43Z"
+      },
+      {
+        "name": "pack",
+        "conclusion": "success",
+        "completedAt": "2026-11-22T19:55:23Z"
+      }
+    ],
+    "scope": "Production HTTPS catalogue; existing native application commands; isolated Windows temporary installation, verified files, restore and reinstall"
+  },
   "displayAudit": {
     "processed": 2039,
     "mixedDescriptionsAudited": 178,
@@ -66,5 +85,10 @@
   },
   "otherCatalogueEntriesUnchanged": true,
   "visualMobiGlasVerified": false,
-  "testedInGame": false
+  "testedInGame": false,
+  "localRecheck": {
+    "finalResult": "passed with unchanged validation code",
+    "initialResult": "One local production check failed during publication propagation; subsequent check passed",
+    "cacheObservation": "HTTP cache-control max-age=300; earlier response revision was not recorded, so stale cache is suspected rather than proven"
+  }
 }
