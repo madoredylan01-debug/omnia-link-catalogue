@@ -123,5 +123,42 @@
         "reason": "Aucune approbation du fichier exact"
       }
     ]
+  },
+  {
+    "publishedAt": "2026-11-22T11:26:36.615Z",
+    "previousCommit": "30ef7e6f1eafc95f1ac7f0b5b1394e7e02c4d3db",
+    "decisions": [
+      {
+        "channel": "LIVE",
+        "build": "13165946",
+        "mode": "enriched",
+        "sha256": "e0b972b06271500cf26ce04916afaf12992110a376b524c7c8dabf441f7c3587",
+        "detectedAt": "2026-11-22T11:26:06.472Z",
+        "status": "validated",
+        "validatedAt": "2026-11-22T11:26:09.445Z",
+        "reviewedBy": "Contrôles OMNIA : UTF-8 BOM, build exact, structure, variables corrigées depuis la référence. Validation en jeu en attente."
+      },
+      {
+        "channel": "LIVE",
+        "build": "13220821",
+        "mode": "enriched",
+        "sha256": "b1095b882cb727d05e8eb508ad19bef8b337b9998f783409c0672633620b782f",
+        "detectedAt": "2026-11-22T11:26:06.826Z",
+        "status": "validated",
+        "validatedAt": "2026-11-22T11:26:11.371Z",
+        "reviewedBy": "Contrôles OMNIA : UTF-8 BOM, build exact, structure, variables corrigées depuis la référence. Validation en jeu en attente."
+      },
+      {
+        "channel": "PTU",
+        "build": "13215521",
+        "mode": "enriched",
+        "sha256": "1a06ae709793aa4c125ebae8767028613d8e0800ff32b7d2270b97961d942303",
+        "detectedAt": "2026-11-22T11:26:07.170Z",
+        "status": "validated",
+        "validatedAt": "2026-11-22T11:26:13.386Z",
+        "reviewedBy": "Contrôles OMNIA : UTF-8 BOM, build exact, structure, variables corrigées depuis la référence. Validation en jeu en attente."
+      }
+    ],
+    "reason": "Correction UTF-8 BOM obligatoire ; sélection explicite de la langue française ; aucune validation en jeu encore déclarée."
   }
 ]

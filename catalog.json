@@ -31,11 +31,11 @@
     "mode": "enriched",
     "author": "OMNIA · base Dymerz · compléments Lazy Citizen / Smart Citizen",
     "license": "Base MIT · compléments Apache-2.0 · textes CIG · couverture partielle déclarée",
-    "source": "https://github.com/madoredylan01-debug/omnia-link-catalogue/blob/b8f29610eb0131bf8225d76f3edcda9f82f46ba1/packs/LIVE/13165946/r1/coverage.json",
-    "version": "OMNIA-LIVE-13165946-r1-partiel",
-    "download": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/b8f29610eb0131bf8225d76f3edcda9f82f46ba1/packs/LIVE/13165946/r1/global.ini",
-    "sha256": "e1f498600bf15f6023d24fce462d929ec6b88bc8586eadf692673f124d081484",
-    "english_slot": true,
+    "source": "https://github.com/madoredylan01-debug/omnia-link-catalogue/blob/30ef7e6f1eafc95f1ac7f0b5b1394e7e02c4d3db/packs/LIVE/13165946/r2/coverage.json",
+    "version": "OMNIA-LIVE-13165946-r2-bom-partiel",
+    "download": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/30ef7e6f1eafc95f1ac7f0b5b1394e7e02c4d3db/packs/LIVE/13165946/r2/global.ini",
+    "sha256": "e0b972b06271500cf26ce04916afaf12992110a376b524c7c8dabf441f7c3587",
+    "english_slot": false,
     "experimental": false
   },
   {
@@ -44,11 +44,11 @@
     "mode": "enriched",
     "author": "OMNIA · base Dymerz · compléments Lazy Citizen / Smart Citizen",
     "license": "Base MIT · compléments Apache-2.0 · textes CIG · couverture partielle déclarée",
-    "source": "https://github.com/madoredylan01-debug/omnia-link-catalogue/blob/b8f29610eb0131bf8225d76f3edcda9f82f46ba1/packs/LIVE/13220821/r1/coverage.json",
-    "version": "OMNIA-LIVE-13220821-r1-partiel",
-    "download": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/b8f29610eb0131bf8225d76f3edcda9f82f46ba1/packs/LIVE/13220821/r1/global.ini",
-    "sha256": "2e0b8223a25f73edfe684f814120c03e34141dbc2b47553f1f70ff5a60206b33",
-    "english_slot": true,
+    "source": "https://github.com/madoredylan01-debug/omnia-link-catalogue/blob/30ef7e6f1eafc95f1ac7f0b5b1394e7e02c4d3db/packs/LIVE/13220821/r2/coverage.json",
+    "version": "OMNIA-LIVE-13220821-r2-bom-partiel",
+    "download": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/30ef7e6f1eafc95f1ac7f0b5b1394e7e02c4d3db/packs/LIVE/13220821/r2/global.ini",
+    "sha256": "b1095b882cb727d05e8eb508ad19bef8b337b9998f783409c0672633620b782f",
+    "english_slot": false,
     "experimental": false
   },
   {
@@ -57,11 +57,11 @@
     "mode": "enriched",
     "author": "OMNIA · base Dymerz · compléments Lazy Citizen / Smart Citizen",
     "license": "Base MIT · compléments Apache-2.0 · textes CIG · couverture partielle déclarée",
-    "source": "https://github.com/madoredylan01-debug/omnia-link-catalogue/blob/b8f29610eb0131bf8225d76f3edcda9f82f46ba1/packs/PTU/13215521/r1/coverage.json",
-    "version": "OMNIA-PTU-13215521-r1-partiel",
-    "download": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/b8f29610eb0131bf8225d76f3edcda9f82f46ba1/packs/PTU/13215521/r1/global.ini",
-    "sha256": "8f7ba5ec155a27e77f705e3ce60d957587ff39f90d230675ee1d50dc191c6045",
-    "english_slot": true,
+    "source": "https://github.com/madoredylan01-debug/omnia-link-catalogue/blob/30ef7e6f1eafc95f1ac7f0b5b1394e7e02c4d3db/packs/PTU/13215521/r2/coverage.json",
+    "version": "OMNIA-PTU-13215521-r2-bom-partiel",
+    "download": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/30ef7e6f1eafc95f1ac7f0b5b1394e7e02c4d3db/packs/PTU/13215521/r2/global.ini",
+    "sha256": "1a06ae709793aa4c125ebae8767028613d8e0800ff32b7d2270b97961d942303",
+    "english_slot": false,
     "experimental": false
   }
 ]
