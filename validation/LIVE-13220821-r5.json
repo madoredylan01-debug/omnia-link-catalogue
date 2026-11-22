@@ -11,7 +11,26 @@
     "nativePassed": 1,
     "nativeDurationSeconds": 8.29
   },
-  "productionValidation": "Pending actual production-catalogue run",
+  "productionValidation": {
+    "run": "https://github.com/madoredylan01-debug/omnia-link/actions/runs/45058806045",
+    "commit": "4b1d9266309b1bc2b72b96d637b79970b250b471",
+    "javascriptPassed": 52,
+    "nativePassed": 1,
+    "nativeDurationSeconds": 7.62,
+    "jobs": [
+      {
+        "name": "pack",
+        "conclusion": "success",
+        "completedAt": "2026-11-22T19:06:34Z"
+      },
+      {
+        "name": "native-client",
+        "conclusion": "success",
+        "completedAt": "2026-11-22T19:07:58Z"
+      }
+    ],
+    "scope": "Actual HTTPS production catalogue; existing application commands; temporary Windows installation; file verification, restore and reinstall"
+  },
   "missionCounts": {
     "definitions": 5167,
     "releaseCandidates": 3834,
@@ -59,5 +78,6 @@
   },
   "otherCatalogueEntriesUnchanged": true,
   "testedInGame": false,
-  "serverPayoutsObserved": 0
+  "serverPayoutsObserved": 0,
+  "visualValidation": "New in-game display and actual player/party payouts still require observation by the player"
 }
