@@ -1,0 +1,23 @@
+[
+  {
+    "channel": "LIVE",
+    "build": "13220821",
+    "mode": "enriched",
+    "author": "OMNIA · base française Dymerz · faits du build LIVE exact",
+    "version": "OMNIA-LIVE-13220821-r6-21a06645-partiel",
+    "license": "Base MIT · compléments Apache-2.0 · textes CIG · couverture partielle déclarée",
+    "source": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/3af21e642470025df02910a810adbbc9c251134b/packs/LIVE/13220821/21a066451ae415c5/coverage.json",
+    "download": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/3af21e642470025df02910a810adbbc9c251134b/packs/LIVE/13220821/21a066451ae415c5/global.ini",
+    "sha256": "21a066451ae415c54ce20686c5c4d15a4ac6369f292cfc1eb909bd19de41b503",
+    "english_slot": false,
+    "experimental": false,
+    "coverage": {
+      "total": 91358,
+      "translated": 65654,
+      "official": 10616,
+      "english": 15088,
+      "draft": 0,
+      "supplements": 1715
+    }
+  }
+]
