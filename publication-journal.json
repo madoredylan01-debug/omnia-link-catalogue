@@ -291,5 +291,43 @@
         "reason": "Aucune approbation du fichier exact"
       }
     ]
+  },
+  {
+    "publishedAt": "2026-11-22T19:05:53.039Z",
+    "previousCommit": "bd16277bef8a6f13d4d89ccc2fe44410f129c372",
+    "decisions": [
+      {
+        "channel": "LIVE",
+        "build": "13220821",
+        "mode": "enriched",
+        "sha256": "8b697eaa33873805263f121b8c87b683f78a8441caa50894cb36042b37ed27ca",
+        "detectedAt": "2026-11-22T19:01:17.313Z",
+        "status": "validated",
+        "validatedAt": "2026-11-22T19:01:19.644Z",
+        "reviewedBy": "Build exact, sources autorisées, BOM, clés et variables, règles CIG conditionnelles, variantes, réputation distincte des XP, quantités et pools. Versements serveur et rendu en jeu non validés."
+      }
+    ],
+    "validationRun": "https://github.com/madoredylan01-debug/omnia-link/actions/runs/45058277460",
+    "rollbackPack": {
+      "channel": "LIVE",
+      "build": "13220821",
+      "mode": "enriched",
+      "author": "OMNIA · base Dymerz · compléments Lazy Citizen",
+      "license": "Base MIT · compléments Apache-2.0 · textes CIG · couverture partielle déclarée",
+      "source": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/d1ff70e5960de99479d2a26bce5e79a8291b36ac/packs/LIVE/13220821/ba028604f7d2e899/coverage.json",
+      "version": "OMNIA-LIVE-13220821-ba028604f7d2-partiel",
+      "download": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/d1ff70e5960de99479d2a26bce5e79a8291b36ac/packs/LIVE/13220821/ba028604f7d2e899/global.ini",
+      "sha256": "ba028604f7d2e89963658873eb0cead73be08a39934ad5b434c7e22a50405899",
+      "english_slot": false,
+      "experimental": false,
+      "coverage": {
+        "total": 91358,
+        "translated": 65812,
+        "official": 10616,
+        "english": 14930,
+        "draft": 0,
+        "supplements": 3723
+      }
+    }
   }
 ]

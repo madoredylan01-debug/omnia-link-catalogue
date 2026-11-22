@@ -50,21 +50,21 @@
     "channel": "LIVE",
     "build": "13220821",
     "mode": "enriched",
-    "author": "OMNIA · base Dymerz · compléments Lazy Citizen",
+    "author": "OMNIA · base française Dymerz · faits du build LIVE exact",
     "license": "Base MIT · compléments Apache-2.0 · textes CIG · couverture partielle déclarée",
-    "source": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/d1ff70e5960de99479d2a26bce5e79a8291b36ac/packs/LIVE/13220821/ba028604f7d2e899/coverage.json",
-    "version": "OMNIA-LIVE-13220821-ba028604f7d2-partiel",
-    "download": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/d1ff70e5960de99479d2a26bce5e79a8291b36ac/packs/LIVE/13220821/ba028604f7d2e899/global.ini",
-    "sha256": "ba028604f7d2e89963658873eb0cead73be08a39934ad5b434c7e22a50405899",
+    "source": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/dcf623c114c83aba28f886c148a22ee461eb5753/packs/LIVE/13220821/8b697eaa33873805/coverage.json",
+    "version": "OMNIA-LIVE-13220821-r5-8b697eaa-partiel",
+    "download": "https://raw.githubusercontent.com/madoredylan01-debug/omnia-link-catalogue/dcf623c114c83aba28f886c148a22ee461eb5753/packs/LIVE/13220821/8b697eaa33873805/global.ini",
+    "sha256": "8b697eaa33873805263f121b8c87b683f78a8441caa50894cb36042b37ed27ca",
     "english_slot": false,
     "experimental": false,
     "coverage": {
       "total": 91358,
-      "translated": 65812,
+      "translated": 65654,
       "official": 10616,
-      "english": 14930,
+      "english": 15088,
       "draft": 0,
-      "supplements": 3723
+      "supplements": 1840
     }
   },
   {
